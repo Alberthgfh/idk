@@ -1,3 +1,33 @@
+html {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #e8e8e9;
+  text-align: center;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: white;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 0px;
+}
+/* tu sie zaczyna górny pasek menu */	
 ul {
     list-style-type: none;
     margin: 0;
@@ -13,7 +43,7 @@ li {
 }
 
 li a {
-	color: #666;
+	color: #667;
     display: block;
     color: black;
     text-align: center;
@@ -23,5 +53,5 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
-    background-color: #666;
+    background-color: #667;
 }
