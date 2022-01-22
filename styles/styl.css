@@ -26,26 +26,26 @@ p, li {
   line-height: 1;
   letter-spacing: 0px;
 }
-/* tu sie zaczyna górny pasek menu */
+
 .nav {
-    background-color: #f3f3f3;
-    color: #ffffff;
-    list-style: none;
-    text-align: center;
-    padding: 15px 0 15px 40px
+	background-color: #f3f3f3;
+	color: #ffffff;
+	list-style: none;
+	text-align: center;
+	padding: 10px 0 10px 45px
 }
 
 .nav > li {
-    display: inline-block;
-    padding: 0 25px 0 25px
+	display: inline-block;
+	padding: 0 25px 0 25px 
 }
 
 .nav > li > a:hover {
-    color: #999;
-    text-decoration: none;
+	color: #999;
+	text-decoration: none;
 }
 
 .nav > li > a {
-    text-decoration: none;
-    color: black;
+	text-decoration: none;
+	color: black;
 }
